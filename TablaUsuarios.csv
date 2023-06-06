@@ -1,0 +1,18 @@
+ID,Nombre,Apellido,Genero,Edad,Peso,Altura,Email,Ciudad,Pais,Fecha
+1,jose,varveru,M,29,76.0,2.1,fede.varveru@gnauk.com,Buenos Aires,Argentina,2/06/2023
+103,Juan,Perez,M,25,70.5,1.75,juan@example.com,Toulouse,Francia,4/06/2023
+104,Maria,Lopez,F,30,65.2,1.68,maria@example.com,Asuncion,Paraguay,1/06/2023
+105,Carlos,Gonzalez,M,40,80.1,1.82,carlos@example.com,Quito,Ecuador,1/06/2023
+106,Laura,Ramirez,F,35,60.7,1.6,laura@example.com,Berlín,Alemania,2/06/2023
+107,Pedro,Sanchez,M,28,75.3,1.8,pedro@example.com,Buenos Aires,Argentina,30/05/2023
+108,Gabriel,Gonzalez,M,22,68.4,1.7,gabriel@example.com,Montevideo,Uruguay,22/05/2023
+109,Luisa,Fernández,F,27,55.8,1.63,luisa@example.com,Pekín,Japon,29/05/2023
+110,Javier,Martínez,M,33,76.2,1.79,javier@example.com,Montevideo,Uruguay,29/05/2023
+111,Valentina,López,F,29,62.1,1.65,valentina@example.com,Lima,Peru,4/06/2023
+112,Héctor,Ramírez,M,41,84.7,1.82,hector@example.com,Asunción,Paraguay,2/06/2023
+113,Gabriel,aa,M,22,68.4,1.7,gabrisel@example.com,Quito,Ecuador,22/05/2023
+114,Franco,Brustolo,M,30,43.0,1.8,franco@gmail.com,Buenos Aires,Argentina,5/06/2023
+115,Gabriel,Brustolon,M,34,87.0,1.76,gabrielBrusto@gmail.com,Rosario,Argentina,5/06/2023
+116,Federicos,Barrios,M,24,88.0,1.77,feder@hotmail.com,Asuncion,Paraguay,5/06/2023
+117,Beatriz,Atucha,F,65,66.0,1.66,beatriz@hotmail.com,Paris,Francia,5/06/2023
+118,Janet,Gonzalez,F,14,54.0,1.45,janet@gmail.com,Quito,Ecuador,5/06/2023
